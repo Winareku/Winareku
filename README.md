@@ -30,3 +30,6 @@
 - **Tecnologías:** HTML5, CSS modular, JavaScript modular.
 - **Enlaces:** 
   - [Repositorio en GitHub](https://github.com/Winareku/NeoVim-Simulator)
+
+## Contacto
+- **Correo Electrónico:** [winareku@gmail.com](mailto:winareku@gmail.com)
